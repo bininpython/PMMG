@@ -4,14 +4,16 @@ App independente de checklist e acompanhamento da preparação física para o co
 
 ## Recursos
 
-- Plano semanal com checklist por etapa e progresso salvo no navegador.
+- Ficha inicial de 8 semanas com quatro treinos de musculação, dois estímulos de corrida/TAF e um dia de descanso.
+- Exercícios com séries, repetições, intervalos de descanso e orientações de esforço.
+- Checklist semanal com anotações de carga, repetições, tempo ou distância por etapa.
 - Biblioteca de movimentos de corrida, força, core, agilidade e mobilidade.
 - Registro de simulados e histórico local das marcas.
 - Layout responsivo para celular e computador, em preto, branco e amarelo.
 
 ## Como usar
 
-Abra `index.html` em um navegador. Os registros ficam no `localStorage` do dispositivo e navegador usados. Nenhuma conta ou servidor é necessário.
+Abra `index.html` em um navegador. Os registros de treino e TAF ficam no `localStorage` do dispositivo e navegador usados. Nenhuma conta ou servidor é necessário.
 
 ## Publicação no GitHub Pages
 
@@ -19,4 +21,4 @@ O workflow em `.github/workflows/pages.yml` publica o app a cada atualização d
 
 ## Observação
 
-PMMG FIT é um organizador independente, sem vínculo oficial com a Polícia Militar de Minas Gerais. O plano é uma sugestão geral de organização física. As modalidades, regras de execução e índices do TAF/TCF devem ser conferidos no edital vigente e com profissional de Educação Física.
+PMMG FIT é um organizador independente, sem vínculo oficial com a Polícia Militar de Minas Gerais. A ficha é uma estrutura geral para adultos saudáveis, não individualizada por histórico clínico ou experiência. Ajuste com profissional de Educação Física. As modalidades, regras de execução e índices do TAF devem ser conferidos no edital vigente.
