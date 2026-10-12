@@ -7,7 +7,7 @@ App independente de checklist e acompanhamento da preparação física para o co
 - Ficha inicial de 8 semanas com quatro treinos de musculação, dois estímulos de corrida/TAF e um dia de descanso.
 - Exercícios com séries, repetições, intervalos de descanso e orientações de esforço.
 - Checklist semanal com anotações de carga, repetições, tempo ou distância por etapa.
-- Biblioteca de movimentos de corrida, força, core, agilidade e mobilidade.
+- Biblioteca ilustrada com 30 exercícios organizados por peito, costas, ombros, braço completo, pernas e TAF.
 - Registro de simulados e histórico local das marcas.
 - Layout responsivo para celular e computador, em preto, branco e amarelo.
 
